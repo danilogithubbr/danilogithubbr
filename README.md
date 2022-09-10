@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Danilo Alves de Oliveira
 
-- 🔭 Hoje trabalho como analista de planejamento
+- 🔭 Trabalho como analista de planejamento
 - 🌱 Estudando Python e Javascript
 
 <div align="center">
