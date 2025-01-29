@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Danilo Alves de Oliveira
 
 - 🔭 Trabalho como analista de planejamento
-- 🌱 Estudando Python e Javascript
+- 🌱 Estudando Python, Javascript e React Native
 
 <div align="center">
   <a href="https://github.com/danilogithubbr">
